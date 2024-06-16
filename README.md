@@ -20,6 +20,13 @@ AWS Lambda Power Tuning helps identify the most cost-effective power configurati
 
 **Serverless Architecture**: Leverages AWS Step Functions and AWS Lambda for a completely serverless implementation.
 
+# Configuration
+
+**Lambda Function Memory Sizes**: Customize the range of memory sizes to test.
+
+**Timeout Settings**: Adjust the timeout settings for the Lambda functions being tested.
+
+**Concurrency Levels**: Define the concurrency levels for more robust testing.
 
 # What results can be expected from Lambda Power Tuning?
 The state machine will generate a visualization of average cost and speed for each power configuration.
