@@ -24,6 +24,22 @@ AWS Lambda Power Tuning helps identify the most cost-effective power configurati
 # What results can be expected from Lambda Power Tuning?
 The state machine will generate a visualization of average cost and speed for each power configuration.
 
+**Optimal Power Configuration**: Identifies the most cost-effective and performance-efficient power setting.
+
+**Performance Metrics**: 
+- Detailed execution time and cost analysis for each power setting. 
+- Provides best and worst cost and execution time scenarios.
+
+**Visual Reports**:
+- Graphs and charts comparing execution time and cost.
+- Visual representation of the best and worst performance and cost configurations.
+  
+**Comprehensive Analysis**: Detailed logs and summary reports with recommendations.
+
+**Enhanced Efficiency**: Improved resource utilization and potential cost reduction.
+
+**Automated Adjustments**: Option to automatically apply the recommended power setting.
+
 # AWS Lambda Power Tuning Results
 
 **EXAMPLE OF PERFORMANCE TUNING** : 
