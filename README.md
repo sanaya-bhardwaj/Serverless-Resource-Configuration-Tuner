@@ -11,10 +11,15 @@ AWS Lambda Power Tuning helps identify the most cost-effective power configurati
 # Features
 
 **Automated Power Tuning**: Automatically tests multiple power configurations to find the optimal setting for performance and cost.
+
 **Cost Analysis**: Provides detailed analysis of cost vs. performance for each power configuration.
+
 **Customizable Settings**: Allows customization of parameters like memory size and timeout for more tailored tuning.
+
 **Visualization**: Generates visual reports to easily compare the results of different power configurations.
+
 **Serverless Architecture**: Leverages AWS Step Functions and AWS Lambda for a completely serverless implementation.
+
 
 # What results can be expected from Lambda Power Tuning?
 The state machine will generate a visualization of average cost and speed for each power configuration.
