@@ -27,6 +27,7 @@ The state machine will generate a visualization of average cost and speed for ea
 # AWS Lambda Power Tuning Results
 
 **EXAMPLE OF PERFORMANCE TUNING** : 
+
 <img width="957" alt="aws lambda" src="https://github.com/sanaya-bhardwaj/Serverless-Resource-Configuration-Tuner/assets/135012941/09e344f3-a25d-451d-ad24-4ee769f7f426">
 
 **Try it!** : 
